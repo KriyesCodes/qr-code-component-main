@@ -19,6 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+A simple design with a QR code which takes you to the frontendmentor website.
+
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -37,6 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+First I compartmentalize the design into the smallest parts I can create in html. If it's straightforward I go straight to writing the html, otherwise I will use an image editting software to draw out the different parts like this:
+![Screenshot](images/qr-code-design-compartmentalized.png)
 
 ### Built with
 
@@ -89,10 +93,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+Kriyes Mahendra
+- Frontend Mentor - [@Kriyes-M](https://www.frontendmentor.io/profile/Kriyes-M)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 

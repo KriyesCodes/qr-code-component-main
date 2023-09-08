@@ -26,7 +26,7 @@ A simple design with a QR code which takes you to the frontendmentor website.
 
 ### Links
 
-- Solution URL: https://github.com/Kriyes-M/qr-code-component-main
+- Solution URL: https://www.frontendmentor.io/solutions/simple-qr-code-page-eePrnq80TD
 - Live Site URL: https://kriyes-m.github.io/qr-code-component-main/
 
 ## My process

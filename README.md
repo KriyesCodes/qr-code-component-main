@@ -29,6 +29,9 @@ A simple design with a QR code which takes you to the frontendmentor website.
 - Live Site URL: https://kriyes-m.github.io/qr-code-component-main/
 
 ## My process
+
+### Workflow
+
 - First I compartmentalize the design into the smallest parts I can create in html. If it's straightforward I go straight to writing the html, otherwise I will use an image editting software to draw out the different parts as shown below.
 - After writing the html for the basic structure, I style components one after another with CSS.
 - Lastly I compare with the initial design to look for any discrepancies and fix them.

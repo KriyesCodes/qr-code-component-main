@@ -5,21 +5,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Finalised page](#Finalised-page)
   - [Links](#links)
 - [My process](#my-process)
+  - [Workflow](#workflow)
+    -[Compartmentalization Example](#example)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 A simple design with a QR code which takes you to the frontendmentor website.
 
-### Screenshot
+### Finalised page
 
 ![Screenshot](./images/Frontend-Mentor-QR-code-component.png)
 
@@ -35,6 +36,9 @@ A simple design with a QR code which takes you to the frontendmentor website.
 - First I compartmentalize the design into the smallest parts I can create in html. If it's straightforward I go straight to writing the html, otherwise I will use an image editting software to draw out the different parts as shown below.
 - After writing the html for the basic structure, I style components one after another with CSS.
 - Lastly I compare with the initial design to look for any discrepancies and fix them.
+
+#### Example
+
 ![Screenshot](images/qr-code-design-compartmentalized.png)
 
 ### Built with
